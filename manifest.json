@@ -1,7 +1,7 @@
 {
   "name": "Hogwarts Gaming Society",
   "short_name": "HGS",
-  "start_url": "./",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#202132",
   "theme_color": "#202132",
